@@ -9,17 +9,11 @@
 
 - 👯 I’m looking to collaborate on **vision API projects**
 
-- 🤝 I’m looking for help with **Frontend development**
-
-- 👨‍💻 All of my projects are available at [https://portfolio.nkululeko.io](https://portfolio.nkululeko.io)
-
-- 📝 I regularly write articles on [blog.nkululeko.io](blog.nkululeko.io)
+- 🤝 I’m looking for help with **Cloud Computing**
 
 - 💬 Ask me about **react and python**
 
 - 📫 How to reach me **nkululekobhele6017@gmail.com**
-
-- 📄 Know about my experiences [resume.nkululeko.io](resume.nkululeko.io)
 
 - ⚡ Fun fact **I sometimes find what is not funny, funny and people say that is funny and I am really confused.**
 
