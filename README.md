@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Nkululeko Dot IO business website.](https://nkululeko.io)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **GraphQL**
 
-- 👯 I’m looking to collaborate on **vision API projects**
+- 👯 I’m looking to collaborate on **Blockchain projects**
 
-- 🤝 I’m looking for help with **Cloud Computing**
+- 🤝 I’m looking for help with **Containerization: Kubernetes**
 
-- 💬 Ask me about **react and python**
+- 💬 Ask me about **UX, UI, React and Python**
 
 - 📫 How to reach me **nkululekobhele6017@gmail.com**
 
